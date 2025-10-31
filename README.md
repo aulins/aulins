@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aulia Intan Shafira</h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
-![Banner](https://raw.githubusercontent.com/aulins/aulins/main/banner.png)
-![Banner](https://raw.githubusercontent.com/aulins/aulins/main/banner.png)
+<h1 align="center">Hi 👋</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aulins/aulins/main/banner.png" alt="Banner" width="100%">
 </p>
