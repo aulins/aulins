@@ -11,7 +11,7 @@
 
 - 📝 I regularly design web on [https://msha.ke/ainash](https://msha.ke/ainash)
 
-- 💬 Ask me about **Codeigniter, Figma**
+- 💬 Ask me about **Data, Machine Learning, Monitoring, Python, Codeigniter, Figma**
 
 - 📫 How to reach me **contact@ainash.my.id**
 
