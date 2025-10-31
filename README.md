@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aulia Intan Shafira</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
-![Teks Alternatif](https://github.com/aulins/aulins/blob/45618f4d9b39f5e55f5a50773f9a93625673e242/banner.png)
+![Banner Aulia](https://github.com/aulins/aulins/banner.png)
+![Foto Aulia](https://example.com/foto-aulia.png)
+
 
 - 🌱 I’m currently learning **Dev-Ops**
 
