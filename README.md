@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Dev-Ops**
+- 🌱 I’m currently learning **Machine Learning and Dev-Ops**
 
 - 👨‍💻 All of my projects are available at [https://ainash.my.id/](https://ainash.my.id/)
 
