@@ -9,11 +9,11 @@
 
 👨‍💻 All of my projects are available at [https://ainash.my.id/](https://ainash.my.id/) 
 
-- 📝 I regularly design web on [https://msha.ke/ainash](https://msha.ke/ainash)
+📝 I regularly design web on [https://msha.ke/ainash](https://msha.ke/ainash)
 
-- 💬 Ask me about **Data, Machine Learning, Monitoring, Python, Codeigniter, Figma**
+💬 Ask me about **Data, Machine Learning, Monitoring, Python, Codeigniter, Figma**
 
-- 📫 How to reach me **contact@ainash.my.id**
+📫 How to reach me **contact@ainash.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
