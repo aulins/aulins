@@ -1,11 +1,11 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/aulins/aulins/main/banner.png" alt="Banner" width="100%">
 </p>
 
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
 💻 I’m currently learning **Machine Learning and Dev-Ops** <br>
 
