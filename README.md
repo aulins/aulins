@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning and Dev-Ops**
+🌱 I’m currently learning **Machine Learning and Dev-Ops** <br>
 
-- 👨‍💻 All of my projects are available at [https://ainash.my.id/](https://ainash.my.id/)
+👨‍💻 All of my projects are available at [https://ainash.my.id/](https://ainash.my.id/) 
 
 - 📝 I regularly design web on [https://msha.ke/ainash](https://msha.ke/ainash)
 
