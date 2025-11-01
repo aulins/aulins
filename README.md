@@ -6,8 +6,9 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aulins.aulins&right_color=darkgray&left_text=%F0%9F%91%80"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aulins.aulins&right_color=cornflowerblue&left_text=%F0%9F%91%80"  />
 </div>
 
 
@@ -41,4 +42,4 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-###
+
