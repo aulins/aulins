@@ -21,7 +21,7 @@
 
 💬 Ask me about **Data, Machine Learning, Monitoring, Python, Codeigniter, Figma**
 
-📫 How to reach me **<a href="mailto:founder@ainash.my.id">founder@ainash.my.id</a>**
+📫 How to reach me via EMAIL **<a href="mailto:secretary@ainash.my.id">founder@ainash.my.id</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
